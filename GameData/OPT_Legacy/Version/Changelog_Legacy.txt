@@ -1,5 +1,19 @@
 OPT Legacy Spaceplane Parts
 
+3.4.9 (WIP)
+
+* Fixed (killed) 1km spawn kraken in Avatar cargo ramp, Humpback cargo ramp, but not the Stail cargo bay(s).
+* Fixed collider issue in huge wings.
+* Removed radiator module from fuselages and wings.
+* Updated dry masses on all parts that hold fuel. They should meet the CryoTanks standard.
+* Updated fuel switch options in Power Spheres. Some additions and subtractions have occurred.
+* Updated engines: 
+  * WarpJets are now single-mode Pulsed Inductive Thruster (still thrusty like we like it).
+  * Bubble is now fully electric. Usability might be reduced.
+  * ARI-73 (NTR), LP-R Irradiance (NTR) and Helicarrier are now thermal nozzles.
+  * LP-R Prominence (LFO) are no longer "SCOOP" hybrid plasma voodoo.
+* Updated localization on parts that have cargo doors, ramps, docking ports and ladders.
+
 3.1.2
 
 * Fixed an error in the DropTanks patch.

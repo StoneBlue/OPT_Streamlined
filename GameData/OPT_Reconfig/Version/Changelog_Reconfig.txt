@@ -1,31 +1,14 @@
 OPT Reconfig
 
+3.4.9 (WIP)
 
-3.4.2 (WIP)
-
-* Added Methalox and ArcJet RCS options.
-* Added J-81 to engines deleted by No Handwavium patch.
-* Ensured OPT LH2, LH2O tank types are always defined and that OPT tanks lose a little mass when using them.
-
-* Re-tuned engines...again?
-  * Fixed ARI engines' air-breathing to use VelCurveIsp and grow weak in thin atmo.
-  * Raised ARI engines' gimbal speed.
-  * Raised internal heat limt for HAE-02 jet engine.
-  * Reduced mass, thrust and drag of J-81, increased its Isp's and gimbal speed.
-  * Reduced heat production of Nebula, reduced thtrust of its Shcramjet mode.
-  * Reduced thrust and heat production of HAE-02, raised its internal heat limit.
-  * Reduced heat production and raised gimbal speed of J-60D.
-* Updated CryoEngines integration:
-  * This patch now triggers without dependencies on other cryofuel mods.
-  
-To-Do
-* Add OPT style to stock canards. Maybe.
-* Add Methalox option to aerospikes, ARI-75 and EggDogs.
-* Fix default OPT J-61 speed-power curves. (?)
-* Fix collider of legacy main wing. (WIP)
-* Possible change PowerSpheres to not use OmniConverters for input switching. It seems to fail to access input resources.
-* Possible change PowerSpheres to not use OmniConverters for EPS Transformer. Its throughput scales with output resource fill% which can get annoying.
-
+* Added System Heat engine configs.
+* Deprecated WarpJet Isp selector.
+* Deprecated optional extras: LessHandwavium, OPT Reconfig CryoEngines.
+* Reduced the RO configs a bit.
+* Updated Antimatter configs so containment cost only applies when tanks are set to hole Antimatter.
+* Updated boiloff configs to cater for more resources.
+* Updated WBI OmniStorage (tank switcher) config to be optional extra (for players who want WBI Pathfinder but not this effect).
 
 3.4.1
 

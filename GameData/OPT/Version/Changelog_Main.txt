@@ -1,5 +1,18 @@
 OPT Spaceplane Continued
 
+3.4.9 (WIP)
+
+* Added wrapper solar panels.
+* Added wrapper radiators.
+* Fixed (killed) 1km spawn kraken in J Deployment Bay, J Large docking Port.
+* Removed radiator module from fuselages and wings.
+* Updated dry masses on all parts that hold fuel. They should meet the CryoTanks standard.
+* Updated engines: 
+  * WarpJets are now single-mode Pulsed Inductive Thruster (still thrusty like we like it).
+  * Dark Drive is now a Plasma Core Antimatter engine. (Dark Goo and Black Hole stuff are gone now.)
+  * ARI-75, J-92 Nebula are no longer "SCOOP" hybrid plasma voodoo.
+* Updated localization on parts that have cargo doors, ramps, docking ports and ladders.
+
 3.1.1
 
 * Forgot to update version number...
