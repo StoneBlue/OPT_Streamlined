@@ -1,0 +1,115 @@
+@PART[opt_sage]:NEEDS[NearFuturePropulsion]
+{
+	MODULE
+	{
+		name = VariablePowerEngine
+		ConstantThrust = 375
+		HeatCurve
+		{
+			key = 0 190
+			key = 1 325
+		}
+		PowerCurve
+		{
+			key = 0 664.611
+			key = 1 1329.222
+		}
+		IspCurve
+		{
+			key = 0 3250
+			key = 1 5543
+		}
+	}
+}
+@PART[opt_surge]:NEEDS[NearFuturePropulsion]
+{
+	MODULE
+	{
+		name = VariablePowerEngine
+		ConstantThrust = 750
+		HeatCurve
+		{
+			key = 0 160
+			key = 1 273.12
+		}
+		PowerCurve
+		{
+			key = 0 1439.99
+			key = 1 2879.98
+		}
+		IspCurve
+		{
+			key = 0 3000
+			key = 1 5117
+		}
+	}
+}
+@PART[opt_vtol_jumpa2]:NEEDS[NearFuturePropulsion]
+{
+	MODULE
+	{
+		name = VariablePowerEngine
+		ConstantThrust = 900
+		HeatCurve
+		{
+			key = 0 120
+			key = 1 205.28
+		}
+		PowerCurve
+		{
+			key = 0 1481.132
+			key = 1 2962.264
+		}
+		IspCurve
+		{
+			key = 0 3500
+			key = 1 5970
+		}
+	}
+}
+@PART[opt_vtol_wrapj2]:NEEDS[NearFuturePropulsion]
+{
+	MODULE
+	{
+		name = VariablePowerEngine
+		ConstantThrust = 500
+		HeatCurve
+		{
+			key = 0 140
+			key = 1 239.5
+		}
+		PowerCurve
+		{
+			key = 0 822.851
+			key = 1 1645.702
+		}
+		IspCurve
+		{
+			key = 0 3500
+			key = 1 5970
+		}
+	}
+}
+@PART[opt_vtol_wrapk2|opt_vtol_wrapl2]:NEEDS[NearFuturePropulsion]
+{
+	MODULE
+	{
+		name = VariablePowerEngine
+		ConstantThrust = 750
+		HeatCurve
+		{
+			key = 0 140
+			key = 1 239.5
+		}
+		PowerCurve
+		{
+			key = 0 1234.277
+			key = 1 2468.554
+		}
+		IspCurve
+		{
+			key = 0 3500
+			key = 1 5970
+		}
+	}
+}
