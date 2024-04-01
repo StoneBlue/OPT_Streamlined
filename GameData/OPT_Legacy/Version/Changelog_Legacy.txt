@@ -1,6 +1,22 @@
 OPT Legacy Spaceplane Parts
 
-3.4.9 (WIP)
+3.4.9.2 (WIP)
+
+* Moved the following parts (series) from Legacy to Main:
+  * Wings2 (series D to G).
+  * Power Spheres.
+  * All 2.5m.
+  * All VTOL engines except Humpback wrappers.
+* Reorganized parts.
+* Updated all crewed parts to have stockalike blue window glass.
+
+To-Do
+* Add supersonic ram air turbine.
+* Add large radial intakes.
+* Add engines.
+
+
+3.4.9
 
 * Fixed (killed) 1km spawn kraken in Avatar cargo ramp, Humpback cargo ramp, but not the Stail cargo bay(s).
 * Fixed collider issue in huge wings.
@@ -13,6 +29,7 @@ OPT Legacy Spaceplane Parts
   * ARI-73 (NTR), LP-R Irradiance (NTR) and Helicarrier are now thermal nozzles.
   * LP-R Prominence (LFO) are no longer "SCOOP" hybrid plasma voodoo.
 * Updated localization on parts that have cargo doors, ramps, docking ports and ladders.
+
 
 3.1.2
 
