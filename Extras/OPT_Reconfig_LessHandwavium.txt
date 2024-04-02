@@ -1,9 +1,0 @@
-@OPTMOD:FIRST
-{
-	@FeatureBiasB = 1
-}
-
-@OPTMOD:FOR[OPT_Reconfig_LessHandwavium]
-{
-	%NoticeMeABitMore = Yes
-}
