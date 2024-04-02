@@ -1,14 +1,20 @@
 OPT Reconfig
 
-3.4.9 (WIP)
+3.4.9.2 (WIP)
 
 * Added System Heat engine configs.
-* Deprecated WarpJet Isp selector.
-* Deprecated optional extras: LessHandwavium, OPT Reconfig CryoEngines.
-* Reduced the RO configs a bit.
+* Added System Heat radiator configs.
+* Added WarpJet Isp selector based on Near Future Propulsion's PIT tuner.
+* Deprecated Nebula Cooler function.
+* Deprecated optional extras: LessHandwavium, ZeroHandwavium. OPT Reconfig CryoEngines.
+* Deprecated optional extras: OPT Reconfig CryoEngines. Use Rational Resources Jet Family.
+* Deprecated WarpJet Isp selector based on B9PS.
+* Received all patches and sounds from the parts packs.
+* Reduced the RO configs a bit. Treat it as less stable, less complete.
 * Updated Antimatter configs so containment cost only applies when tanks are set to hole Antimatter.
 * Updated boiloff configs to cater for more resources.
 * Updated WBI OmniStorage (tank switcher) config to be optional extra (for players who want WBI Pathfinder but not this effect).
+
 
 3.4.1
 

@@ -2,21 +2,23 @@ OPT Legacy Spaceplane Parts
 
 3.4.9.2
 
+* Added texture options for Procedural Parts.
 * Added supersonic ram air turbine.
 * Added large radial intake.
 * Added wrapper intakes for J, K bodies.
 * Added wrapper solar panels and radiators for H, J, K bodies.
+* Fixed (killed) 1km spawn kraken in Avatar cargo ramp, Humpback cargo ramp, J Deployment Bay, but not the Stail cargo bay(s).
+* Fixed (killed) 1km spawn kraken in J Large Docking Port but it seems to no longer actually dock.
+* Fixed collider issue in huge wings.
 * Moved the following parts (series) from Legacy to Main:
   * Wings2 (series D to G).
   * Power Spheres.
   * All 2.5m.
   * All VTOL engines except Humpback wrappers.
 * Moved all patches and sounds to Reconfig.
+* Removed radiator module from fuselages and wings.
 * Reorganized parts.
 * Updated all crewed parts to have stockalike blue window glass.
-* Fixed (killed) 1km spawn kraken in Avatar cargo ramp, Humpback cargo ramp, but not the Stail cargo bay(s).
-* Fixed collider issue in huge wings.
-* Removed radiator module from fuselages and wings.
 * Updated dry masses on all parts that hold fuel. They should meet the CryoTanks standard.
 * Updated fuel switch options in Power Spheres. Some additions and subtractions have occurred.
 * Updated engines: 
