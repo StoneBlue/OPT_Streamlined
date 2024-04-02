@@ -1,23 +1,19 @@
 OPT Legacy Spaceplane Parts
 
-3.4.9.2 (WIP)
+3.4.9.2
 
+* Added supersonic ram air turbine.
+* Added large radial intake.
+* Added wrapper intakes for J, K bodies.
+* Added wrapper solar panels and radiators for H, J, K bodies.
 * Moved the following parts (series) from Legacy to Main:
   * Wings2 (series D to G).
   * Power Spheres.
   * All 2.5m.
   * All VTOL engines except Humpback wrappers.
+* Moved all patches and sounds to Reconfig.
 * Reorganized parts.
 * Updated all crewed parts to have stockalike blue window glass.
-
-To-Do
-* Add supersonic ram air turbine.
-* Add large radial intakes.
-* Add engines.
-
-
-3.4.9
-
 * Fixed (killed) 1km spawn kraken in Avatar cargo ramp, Humpback cargo ramp, but not the Stail cargo bay(s).
 * Fixed collider issue in huge wings.
 * Removed radiator module from fuselages and wings.
@@ -28,6 +24,7 @@ To-Do
   * Bubble is now fully electric. Usability might be reduced.
   * ARI-73 (NTR), LP-R Irradiance (NTR) and Helicarrier are now thermal nozzles.
   * LP-R Prominence (LFO) are no longer "SCOOP" hybrid plasma voodoo.
+  * J-61 is now a ramjet + scramjet. Operates between Mach 1.2 & 15.
 * Updated localization on parts that have cargo doors, ramps, docking ports and ladders.
 
 
