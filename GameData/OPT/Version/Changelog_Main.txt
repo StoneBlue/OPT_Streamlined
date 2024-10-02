@@ -1,5 +1,20 @@
 OPT Spaceplane Continued
 
+3.4.9.4 (WIP)
+
+* Gave wrapper intakes minimal drag cubes. They were horribly draggy due to their great surface area at non-zero AoA.
+* Updated Dark Energy power spheres: They are now Sterling Systems style pebble bed reactors (fission type, thermals category).
+  * Added generator bays (cloned from cargo bays) to hold them and provide generous thermoelectric conversion.
+  * Added System Heat compatibility.
+* Deprecated custom tech nodes.
+* Hard deprecated old RCS parts.
+* Added inline Mk2 and 2.5m RCS parts.
+* Updated System Heat thermal nozzles config.
+  * Affected engines produce 1/10 the previous amounts of waste heat.
+  * Added/Moved LP-R Irradiance to this subcategory.
+* Fixed Kerbal Actuators config pointing to OPT Legacy for the alternate models for the Slipstream engine (RCS) and Skylight tilt engine. Affected engines became invalid and would not appear.
+
+
 3.4.9.2
 
 * Added texture options for Procedural Parts.

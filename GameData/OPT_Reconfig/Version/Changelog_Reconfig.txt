@@ -1,6 +1,15 @@
 OPT Reconfig
 
-3.4.9.2 (WIP)
+3.4.9.4 (WIP)
+
+* Fixed Kerbal Actuators config pointing to OPT Legacy for the alternate models for the Slipstream engine (RCS) and Skylight tilt engine. Affected engines became invalid and would not appear.
+* Updated System Heat configs for thermal nozzle engines and reactors:
+  * Dark Energy power spheres now count as Sterling Systems style pebble bed reactors (fission type, no longer fusion).
+  * Affected engines produce 1/10 the previous amounts of waste heat.
+  * LP-R Irradiance engine now counts as a thermal nozzle.
+
+
+3.4.9.2
 
 * Added System Heat engine configs.
 * Added System Heat radiator configs.
