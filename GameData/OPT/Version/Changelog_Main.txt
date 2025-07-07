@@ -1,5 +1,53 @@
 OPT Spaceplane Continued
 
+3.4.9.5
+
+* Added J & K belt radiators.
+* Added wrapper titanium radiators for H, J, K.
+* Balance pass on wrapper radiators and solar panels.
+* Gave wrapper intakes minimal drag cubes. They were horribly draggy due to their great surface area at non-zero AoA.
+* Updated Dark Energy power spheres: They are now Sterling Systems style pebble bed reactors (fission type, thermals category).
+  * Added generator bays (cloned from cargo bays) to hold them and provide generous thermoelectric conversion.
+  * Added System Heat compatibility.
+* Deprecated custom tech nodes.
+* Hard deprecated old RCS parts.
+* Added inline Mk2 and 2.5m RCS parts.
+* Updated System Heat thermal nozzles config.
+  * Affected engines produce 1/10 the previous amounts of waste heat.
+  * Added/Moved LP-R Irradiance to this subcategory.
+* Fixed Kerbal Actuators config pointing to OPT Legacy for the alternate models for the Slipstream engine (RCS) and Skylight tilt engine. Affected engines became invalid and would not appear.
+
+
+3.4.9.2
+
+* Added texture options for Procedural Parts.
+* Added supersonic ram air turbine.
+* Added large radial intake.
+* Added wrapper intakes for J, K bodies.
+* Added wrapper solar panels and radiators for H, J, K bodies.
+* Fixed (killed) 1km spawn kraken in Avatar cargo ramp, Humpback cargo ramp, J Deployment Bay, but not the Stail cargo bay(s).
+* Fixed (killed) 1km spawn kraken in J Large Docking Port but it seems to no longer actually dock.
+* Fixed collider issue in huge wings.
+* Moved the following parts (series) from Legacy to Main:
+  * Wings2 (series D to G).
+  * Power Spheres.
+  * All 2.5m.
+  * All VTOL engines except Humpback wrappers.
+* Moved all patches and sounds to Reconfig.
+* Removed radiator module from fuselages and wings.
+* Reorganized parts.
+* Updated all crewed parts to have stockalike blue window glass.
+* Updated dry masses on all parts that hold fuel. They should meet the CryoTanks standard.
+* Updated fuel switch options in Power Spheres. Some additions and subtractions have occurred.
+* Updated engines: 
+  * WarpJets are now single-mode Pulsed Inductive Thruster (still thrusty like we like it).
+  * Bubble is now fully electric. Usability might be reduced.
+  * ARI-73 (NTR), LP-R Irradiance (NTR) and Helicarrier are now thermal nozzles.
+  * LP-R Prominence (LFO) are no longer "SCOOP" hybrid plasma voodoo.
+  * J-61 is now a ramjet + scramjet. Operates between Mach 1.2 & 15.
+* Updated localization on parts that have cargo doors, ramps, docking ports and ladders.
+
+
 3.1.1
 
 * Forgot to update version number...

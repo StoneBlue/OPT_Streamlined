@@ -1,10 +1,10 @@
 OPT Reconfig
 
-3.4.9.4
+3.4.9.5
 
-* Added inline Mk2 and 2.5m RCS.
+* Updated System Heat config to cover belt radiators.
+* Updated Kerbal Actuators config to remove the elevon module from tilt engines. Fixes potential overlap conflict issues.
 * Fixed Kerbal Actuators config pointing to OPT Legacy for the alternate models for the Slipstream engine (RCS) and Skylight tilt engine. Affected engines became invalid and would not appear.
-* Deprecated custom tech nodes "Covert Aeronautics" in case that was still hanging around.
 * Updated System Heat configs for thermal nozzle engines and reactors:
   * Dark Energy power spheres now count as Sterling Systems style pebble bed reactors (fission type, no longer fusion).
   * Affected engines produce 1/10 the previous amounts of waste heat.
