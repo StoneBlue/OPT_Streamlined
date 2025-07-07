@@ -1,7 +1,10 @@
 OPT Spaceplane Continued
 
-3.4.9.4 (WIP)
+3.4.9.5
 
+* Added J & K belt radiators.
+* Added wrapper titanium radiators for H, J, K.
+* Balance pass on wrapper radiators and solar panels.
 * Gave wrapper intakes minimal drag cubes. They were horribly draggy due to their great surface area at non-zero AoA.
 * Updated Dark Energy power spheres: They are now Sterling Systems style pebble bed reactors (fission type, thermals category).
   * Added generator bays (cloned from cargo bays) to hold them and provide generous thermoelectric conversion.
