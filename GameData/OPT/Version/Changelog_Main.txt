@@ -1,5 +1,14 @@
 OPT Spaceplane Continued
 
+3.4.9.6
+
+* Added Power Drum (K bay reactor).
+* Balance pass. Adjusted parts' cost, entry cost, dry mass.
+* Updated engine types and behaviors. 
+  * Warpjets are no longer dual-mode. (Fixes the dual mode plume problem.)
+  * ARI-73, Helicarrier, J-81 and LP-R Irradiance are thermal nozzles.
+  * Some engines gain more peak thrust to be fair to their type or added mass.
+
 3.4.9.5
 
 * Added J & K belt radiators.

@@ -1,5 +1,10 @@
 OPT Legacy Spaceplane Parts
 
+3.4.9.6
+
+* Fixed path issues on drop tanks and Mk2 and Mk3 parts.
+
+
 3.4.9.2
 
 * Added texture options for Procedural Parts.
