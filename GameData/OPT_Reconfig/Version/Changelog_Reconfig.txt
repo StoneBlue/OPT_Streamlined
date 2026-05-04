@@ -8,7 +8,7 @@ OPT Reconfig
 * Allowed RCS fuel switch on cockpits and rudder engine.
 * Changed fusion fuel options to require Rational Resources, not FFT.
 * Fixed detection issue on variant selector for the Egg Dog engine.
-* Removed water as an option for propellant. (Now only available if certain life support mods installed.) Fix issue with 2 B9PS modules managining the same resource.
+* Removed water as an option for propellant. (Now only available if certain life support mods installed.) Fix issue with 2 B9PS modules managing the same resource.
 * Updated RR engine families patch. Fixed issue with engines that ask for IntakeAtm.
 * Updated System Heat on generator bays. They are justified as containing supercritical CO2 turbines.
 * Updated dependence from WildBlueTools to WBIResources.
