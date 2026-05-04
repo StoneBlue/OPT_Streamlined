@@ -3,7 +3,8 @@ OPT Spaceplane Continued
 3.4.9.6
 
 * Added Power Drum (K bay reactor).
-* Balance pass. Adjusted parts' cost, entry cost, dry mass.
+* Balance pass: Adjusted parts' cost, entry cost, dry mass.
+* Balance pass: Made labs work slower, require more crew and EC, but hold more science.
 * Updated engine types and behaviors. 
   * Warpjets are no longer dual-mode. (Fixes the dual mode plume problem.)
   * ARI-73, Helicarrier, J-81 and LP-R Irradiance are thermal nozzles.
