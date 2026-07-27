@@ -1,5 +1,10 @@
 OPT Reconfig
 
+3.4.9.7
+
+* Upgraded power drum's fusion fuel selector.
+* Disabled RR engine families config. Jet Family portion is busted.
+
 3.4.9.6
 
 * Added GPTT configs thanks to player Davidinc2008.

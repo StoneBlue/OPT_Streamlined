@@ -1,5 +1,12 @@
 OPT Spaceplane Continued
 
+3.4.9.7
+
+* Fixed phantom part problem (Deleted duplicate J Aerospike part config).
+* Added cargo bay lights and tanks.
+* Fixed invalid category for power drum
+* Doubled EC generation in power spheres.
+
 3.4.9.6
 
 * Added Power Drum (K bay reactor).
