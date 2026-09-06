@@ -1,5 +1,10 @@
 OPT Reconfig
 
+3.4.9.8
+
+* Excluded IntakeAtm from fuel switching on parts that have intakes.
+* Updated Sterling fissile fuel tank types, changed in Sterling Systems 0.6.1.
+
 3.4.9.7
 
 * Upgraded power drum's fusion fuel selector.
